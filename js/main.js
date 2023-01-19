@@ -1,3 +1,6 @@
+//Когда строила логику, старалась немного себе усложнить и попробовать симитировать то, как в телефоне. 
+//то есть чтение списка, по клику на имя контакта, выходит карточка контакта с кнопками удалить или изменить. Плюс сортировка списка контактов по алфавитному порядку
+
 let nameInp = document.querySelector('#name-inp');
 let phoneInp = document.querySelector('#phone-inp');
 let emailInp = document.querySelector('#email-inp');
